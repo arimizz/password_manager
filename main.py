@@ -9,7 +9,7 @@ ORANGE = "#FFAB76"
 YELLOW = "#FFFDA2"
 GREEN = "#BAFFB4"
 DATA_PATH = "data.json"
-EMAIL = "joangelaphyton@gmail.com"
+EMAIL = "PUT YOUR EMAIL"
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def password_generator():
